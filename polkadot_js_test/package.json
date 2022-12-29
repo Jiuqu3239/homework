@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@polkadot/api": "^9.9.1",
+    "@polkadot/api-contract": "^9.9.1",
+    "@polkadot/keyring": "^10.1.13",
+    "@polkadot/typegen": "^9.9.1",
+    "@polkadot/types": "^9.9.1"
+  },
+  "type": "module"
+}
