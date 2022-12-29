@@ -1,0 +1,4 @@
+cargo:rustc-env=SUBSTRATE_CLI_IMPL_VERSION=4.0.0-dev-c22349b-x86_64-linux-gnu
+cargo:rerun-if-changed=/home/thgy/substrate/proofs_of_existence/.git/HEAD
+cargo:rerun-if-changed=/home/thgy/substrate/proofs_of_existence/.git/refs/heads/main
+

@@ -1,0 +1,10 @@
+/home/thgy/substrate/proofs-of-existence-demo/target/release/deps/jsonrpc_client_transports-10c9eb6ad5fa5e5f.rmeta: /home/thgy/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-18.0.0/src/lib.rs /home/thgy/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-18.0.0/src/transports/mod.rs /home/thgy/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-18.0.0/src/transports/duplex.rs /home/thgy/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-18.0.0/src/transports/local.rs
+
+/home/thgy/substrate/proofs-of-existence-demo/target/release/deps/libjsonrpc_client_transports-10c9eb6ad5fa5e5f.rlib: /home/thgy/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-18.0.0/src/lib.rs /home/thgy/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-18.0.0/src/transports/mod.rs /home/thgy/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-18.0.0/src/transports/duplex.rs /home/thgy/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-18.0.0/src/transports/local.rs
+
+/home/thgy/substrate/proofs-of-existence-demo/target/release/deps/jsonrpc_client_transports-10c9eb6ad5fa5e5f.d: /home/thgy/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-18.0.0/src/lib.rs /home/thgy/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-18.0.0/src/transports/mod.rs /home/thgy/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-18.0.0/src/transports/duplex.rs /home/thgy/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-18.0.0/src/transports/local.rs
+
+/home/thgy/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-18.0.0/src/lib.rs:
+/home/thgy/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-18.0.0/src/transports/mod.rs:
+/home/thgy/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-18.0.0/src/transports/duplex.rs:
+/home/thgy/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-client-transports-18.0.0/src/transports/local.rs:

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/thgy/substrate/proofs-of-existence-demo/target/release/build/typenum-3298f2c123d1a939/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/thgy/substrate/proofs-of-existence-demo/target/release/build/typenum-3298f2c123d1a939/out/op.rs

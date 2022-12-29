@@ -1,0 +1,5 @@
+[0m[0m[1m[32m   Compiling[0m node-template-runtime v4.0.0-dev (/home/thgy/substrate/proofs_of_existence/runtime)
+[0m[0m[1m[32m   Compiling[0m pallet-poe v4.0.0-dev (/home/thgy/substrate/proofs_of_existence/pallets/poe)
+[0m[0m[1m[32m   Compiling[0m pallet-template v4.0.0-dev (/home/thgy/substrate/proofs_of_existence/pallets/template)
+[0m[0m[1m[32m   Compiling[0m node-template-runtime-wasm v1.0.0 (/home/thgy/substrate/proofs_of_existence/target/release/wbuild/node-template-runtime)
+[0m[0m[1m[32m    Finished[0m release [optimized] target(s) in 10.25s

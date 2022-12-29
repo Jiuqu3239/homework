@@ -1,0 +1,31 @@
+cargo:rustc-cfg=linux_raw
+TARGET = Some("x86_64-unknown-linux-gnu")
+OPT_LEVEL = Some("3")
+HOST = Some("x86_64-unknown-linux-gnu")
+CC_x86_64-unknown-linux-gnu = None
+CC_x86_64_unknown_linux_gnu = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-unknown-linux-gnu = None
+CFLAGS_x86_64_unknown_linux_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("false")
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-o" "/home/thgy/substrate/proofs-of-existence-demo/target/release/build/rsix-6a31fbf372bc9bfe/out/src/imp/linux_raw/arch/outline/x86_64.o" "-c" "src/imp/linux_raw/arch/outline/x86_64.S"
+exit status: 0
+AR_x86_64-unknown-linux-gnu = None
+AR_x86_64_unknown_linux_gnu = None
+HOST_AR = None
+AR = None
+running: "ar" "cq" "/home/thgy/substrate/proofs-of-existence-demo/target/release/build/rsix-6a31fbf372bc9bfe/out/libasm.a" "/home/thgy/substrate/proofs-of-existence-demo/target/release/build/rsix-6a31fbf372bc9bfe/out/src/imp/linux_raw/arch/outline/x86_64.o"
+exit status: 0
+running: "ar" "s" "/home/thgy/substrate/proofs-of-existence-demo/target/release/build/rsix-6a31fbf372bc9bfe/out/libasm.a"
+exit status: 0
+cargo:rustc-link-lib=static=asm
+cargo:rustc-link-search=native=/home/thgy/substrate/proofs-of-existence-demo/target/release/build/rsix-6a31fbf372bc9bfe/out
+cargo:rerun-if-changed=src/imp/linux_raw/arch/outline/x86_64.S
+cargo:rerun-if-env-changed=CARGO_CFG_TARGET_ARCH
+cargo:rustc-cfg=const_fn_union
+cargo:rerun-if-env-changed=CARGO_CFG_RSIX_USE_LIBC
